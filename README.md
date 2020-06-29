@@ -28,7 +28,7 @@ Copy the main project folder and Paste in xampp/htdocs
 after that 
 
 ```
-open http://localhost/cos-africa/wp-admin
+open http://localhost/wordpress/wp-admin
 ```
 
 ## enter the flowing information:
